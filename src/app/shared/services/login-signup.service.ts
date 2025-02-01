@@ -45,6 +45,6 @@ export class LoginSignupService {
   //  * @returns An observable containing the authentication response.
   //  */
   adminLogin(user_name: any, password: any): Observable<any> {
-    return this.apiService.get(this.login_url + '/admin?email=' + user_name + '&password=' + password + '&role=admin');
+    return this.apiService.get(this.login_url + '/user?email=' + user_name + '&password=' + password + '&role=admin');
   }
 }
