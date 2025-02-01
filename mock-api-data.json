@@ -1,0 +1,55 @@
+{
+  "user": [
+    {
+      "name": "John Doe",
+      "mobNumber": "1234567890",
+      "age": 25,
+      "dob": "01-01-1995",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "address": {
+        "addLine1": "123, ABC Street",
+        "addLine2": "XYZ Area",
+        "city": "PQR City",
+        "state": "ST",
+        "zipCode": "123456"
+      },
+      "language": [
+        "English",
+        "Hindi",
+        "Gujarati"
+      ],
+      "gender": "Male",
+      "aboutYou": "I am a software developer",
+      "uploadPhoto": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "agreetc": true,
+      "role": "admin",
+      "id": "1"
+    },
+    {
+      "id": "63f7",
+      "aboutYou": "sadgCWVGSGSF GSF",
+      "age": 22,
+      "agreetc": true,
+      "dob": "2025-02-06",
+      "email": "xyz@gami.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "AWEGVAWCG",
+        "addLine2": "kja shg",
+        "city": "JABALPUR",
+        "state": "Choose...",
+        "zipCode": "594798"
+      },
+      "language": [
+        "English"
+      ],
+      "mobNumber": "08779561448",
+      "name": "AAYUSH JAIN",
+      "password": "adfadfasfasfsa",
+      "uploadPhoto": "C:\\fakepath\\download.jpg",
+      "role": "seller"
+    }
+  ]
+}
